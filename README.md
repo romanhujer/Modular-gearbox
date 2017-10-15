@@ -2,6 +2,8 @@
 
 Modular planetary gerabox 1024:1 (4:1, 16:1, 64:41, 256:1) for NEMA17 stepper motors
 
+Design in FreeCAD
+
 Final STL models for 3D printer and photo on https://www.thingiverse.com/thing:2586962
 
 How to this working? See my video: https://youtu.be/6pDPNkWU2vo
